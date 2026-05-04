@@ -1,0 +1,123 @@
+{
+  "contest": {
+    "name": "F3K Contest",
+    "date": "2026-04-27",
+    "num_units": 8,
+    "num_rounds": 6,
+    "drop_mode": "auto"
+  },
+  "rounds": [
+    {
+      "round_num": 1,
+      "task": "f3k_a",
+      "use_ll_penalty": false,
+      "status": "complete",
+      "groups": [
+        {
+          "group_num": 1,
+          "pilots": {
+            "4": "Brent Lytle"
+          },
+          "status": "complete",
+          "results": {}
+        }
+      ],
+      "n_groups": 0,
+      "n_complete": 0
+    },
+    {
+      "round_num": 2,
+      "task": "f3k_b2",
+      "use_ll_penalty": false,
+      "status": "complete",
+      "groups": [
+        {
+          "group_num": 1,
+          "pilots": {
+            "4": "Brent Lytle"
+          },
+          "status": "complete",
+          "results": {}
+        }
+      ],
+      "n_groups": 0,
+      "n_complete": 0
+    },
+    {
+      "round_num": 3,
+      "task": "f3k_c",
+      "use_ll_penalty": false,
+      "status": "complete",
+      "groups": [
+        {
+          "group_num": 1,
+          "pilots": {
+            "4": "Brent Lytle"
+          },
+          "status": "complete",
+          "results": {}
+        }
+      ],
+      "n_groups": 0,
+      "n_complete": 0
+    },
+    {
+      "round_num": 4,
+      "task": "f3k_d2",
+      "use_ll_penalty": false,
+      "status": "complete",
+      "groups": [
+        {
+          "group_num": 1,
+          "pilots": {
+            "4": "Brent Lytle"
+          },
+          "status": "complete",
+          "results": {}
+        }
+      ],
+      "n_groups": 0,
+      "n_complete": 0
+    },
+    {
+      "round_num": 5,
+      "task": "f3k_h",
+      "use_ll_penalty": false,
+      "status": "complete",
+      "groups": [
+        {
+          "group_num": 1,
+          "pilots": {
+            "4": "Brent Lytle"
+          },
+          "status": "complete",
+          "results": {}
+        }
+      ],
+      "n_groups": 0,
+      "n_complete": 0
+    },
+    {
+      "round_num": 6,
+      "task": "f3k_l2",
+      "use_ll_penalty": false,
+      "status": "complete",
+      "groups": [
+        {
+          "group_num": 1,
+          "pilots": {
+            "4": "Brent Lytle"
+          },
+          "status": "complete",
+          "results": {}
+        }
+      ],
+      "n_groups": 0,
+      "n_complete": 0
+    }
+  ],
+  "standings": {},
+  "checkins": {
+    "Brent Lytle": 4
+  }
+}

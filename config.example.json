@@ -1,0 +1,37 @@
+{
+  "udp_port": 5005,
+  "http_port": 8080,
+  "scoring": {
+    "penalty_per_foot": 0.5
+  },
+  "units": {
+    "stale_timeout_s": 10,
+    "max_units": 200
+  },
+  "session": {
+    "name": "F3K Practice Session",
+    "date": ""
+  },
+  "prep": {
+    "testing_s": 60
+  },
+  "roster": [
+    "Brent Lytle",
+    "Edward LaCroix",
+    "Gary Fogel",
+    "Joseph Dougherty",
+    "Matt Nelson",
+    "Rick Jay"
+  ],
+  "network": {
+    "broadcast_addr": "192.168.8.255",
+    "log_retry_interval_s": 60,
+    "summary_timeout_s": 20
+  },
+  "f3xvault": {
+    "login": "YOUR_F3XVAULT_LOGIN_HERE",
+    "password": "YOUR_F3XVAULT_PASSWORD_HERE",
+    "event_id": 4277,
+    "enabled": true
+  }
+}

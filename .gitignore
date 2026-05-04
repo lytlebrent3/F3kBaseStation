@@ -1,0 +1,39 @@
+# === Project-specific secrets ===
+# config.json contains f3xvault credentials — never commit
+/config.json
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments (in case we add one later)
+venv/
+.venv/
+env/
+
+# Distribution / packaging
+*.egg-info/
+build/
+dist/
+
+# === Runtime data (not source) ===
+# Server logs from event days — ignore everything in logs/ except the placeholder
+logs/**
+!logs/
+!logs/.gitkeep
+
+# Contest result data — ignore everything in contests/ except the placeholder
+contests/**
+!contests/
+!contests/.gitkeep
+
+# === Editor / OS junk ===
+.vscode/
+.idea/
+*.swp
+*.bak
+*~
+Thumbs.db
+.DS_Store
+desktop.ini
